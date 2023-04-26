@@ -1,5 +1,8 @@
 # Music-WebApplication
 
+
+
+
 music player which have Multiple Songs that allow to user to play , stop and Repeat Songs 
 
 ## Features
@@ -9,3 +12,4 @@ music player which have Multiple Songs that allow to user to play , stop and Rep
 - Current Song Name Appear at the top Bar with Rgb Colored 
 
 
+![music](https://user-images.githubusercontent.com/108236186/234712618-91a90793-72bc-402a-9c9a-da21aa709f67.jpg)
